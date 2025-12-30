@@ -1,9 +1,3 @@
 # 📊 Data Processing Automation Designs
-# 🌱 Baseline Approach
-<img width="1600" height="383" alt="Common Process" src="https://github.com/user-attachments/assets/0b571a6e-0d1a-4b5b-b92d-e0bca1209a40" />
-
-# 🪴 Intermediate conditional Approach
-
-
-
-# 🌳 Machine Learning Approach
+# 🪴 Baseline Approach
+<img width="1602" height="374" alt="Common Process" src="https://github.com/user-attachments/assets/75ddfbdf-ec47-4fbb-a215-9674baa6f4c1" />
