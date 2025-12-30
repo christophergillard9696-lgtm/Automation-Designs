@@ -7,4 +7,4 @@ By combining event triggers with modular processing components, conditional auto
 
 
 # 🪴 Baseline Approach
-<img width="1602" height="374" alt="Common Process" src="https://github.com/user-attachments/assets/75ddfbdf-ec47-4fbb-a215-9674baa6f4c1" />
+<img width="1590" height="383" alt="Common Process" src="https://github.com/user-attachments/assets/26bc1034-9642-4394-a89e-adbfe6786f1d" />
