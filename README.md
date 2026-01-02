@@ -6,5 +6,5 @@ A decision layer sits at the center of the design. It checks validation rules, d
 By combining event triggers with modular processing components, conditional automation creates scalable, fault‑tolerant, and context‑aware pipelines that support real‑time analytics, automated reporting, and downstream machine learning workloads.
 
 
-# 🪴 Baseline Approach for ETL
+# 🪴 Baseline Approach for ELT
 <img width="1590" height="383" alt="Common Process" src="https://github.com/user-attachments/assets/26bc1034-9642-4394-a89e-adbfe6786f1d" />
