@@ -8,3 +8,5 @@ By combining event triggers with modular processing components, conditional auto
 
 # 🪴 Baseline Approach for ELT
 <img width="1590" height="383" alt="Common Process" src="https://github.com/user-attachments/assets/26bc1034-9642-4394-a89e-adbfe6786f1d" />
+
+# 🌳 Baseline Approach for ETL
